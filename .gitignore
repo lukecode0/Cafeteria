@@ -1,0 +1,4 @@
+credentials.txt
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
